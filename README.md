@@ -1,6 +1,6 @@
 # todo.txt Web-App
 
-Eine vollständig clientseitige Web-App zur Verwaltung von Aufgaben im [todo.txt-Format](http://todotxt.org). Kein Backend, keine Datenbank — alle Daten bleiben im Browser.
+Eine vollständig clientseitige Web-App zur Verwaltung von Aufgaben im [todo.txt-Format](http://github.com/todotxt/todo.txt). Kein Backend, keine Datenbank — alle Daten bleiben im Browser.
 
 **Live:** [nwsx.org/todo.txt](https://nwsx.org/todo.txt) · **GitHub:** [NousWorksHQ/todo.txt-App](https://github.com/NousWorksHQ/todo.txt-App)
 
